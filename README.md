@@ -1,6 +1,13 @@
-# BoardGame
-2020 Semi Project
-
+## BitBoardGame
 보드게임카페 홈페이지입니다. 
 
-로그인 / 회원가입 / 마이페이지 / 관리자페이지
+## 개발환경
+### Front-end
+* HTML5, CSS3
+* Javascript, JQuery, Ajax
+* KaKao Map API, Naver smtp
+
+### Back-end
+* JDK1.8.0
+* Jackson 2.10.1
+* Apache Tomcat 8.5
